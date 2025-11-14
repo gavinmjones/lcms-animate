@@ -328,9 +328,3 @@ image_write(img_animated, "lcms_animation.gif")
 
 
 
-
-
-
-
-
-
